@@ -62,3 +62,19 @@ You can connect multiple LLm calls and tasks in one structured pipeline, which i
 
 5. Scalability
 As Project grows , Langchain's interface supports more complex workflows , letting you focus on features , not API management 
+
+###
+
+### Types of Messages in Lang chain
+
+1. System Messages: <br />
+Defines the AI's role and Sets teh context for the conversation "Example: You are a Marketing Expert. "
+
+2. Human Messages: <br />
+Represents users input or questions directed to AI  "Example: Whats good Marketing strategy?"
+
+3. Ai Message:<br />
+Contains the AI's responses based on previous messages "Example: Focus on social media engagement"
+
+
+###
