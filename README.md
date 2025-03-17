@@ -78,3 +78,10 @@ Contains the AI's responses based on previous messages "Example: Focus on social
 
 
 ###
+
+### Types of Chaining
+1. Extended or Sequential Chaining: Chaining taska one by one in a straight / Sequential line.
+
+2. Parallel Chaining : Lets you run tasks parallely or simultaneously without being dependent on each other
+
+3. Conditional Chaining: Lets you run particular branch based on a condition
